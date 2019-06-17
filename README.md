@@ -5,7 +5,7 @@ Litecoin Core integration/staging tree
 
 https://litecoin.org
 
-What is Litecoin?
+What is Litecoin??
 ----------------
 
 Litecoin is an experimental digital currency that enables instant payments to

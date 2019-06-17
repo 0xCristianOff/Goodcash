@@ -84,7 +84,7 @@ litecoin-qt
 litecoin-Qt.app
 background.tiff*
 
-# Unit-tests
+# Unit-tests 
 Makefile.test
 litecoin-qt_test
 
@@ -102,7 +102,7 @@ test_litecoin.coverage/
 total.coverage/
 coverage_percent.txt
 
-#build tests
+#build testss
 linux-coverage-build
 linux-build
 win32-build

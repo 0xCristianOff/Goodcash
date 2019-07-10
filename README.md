@@ -3,7 +3,7 @@ Goodcash Core integration/staging tree
 
 [![Build Status](https://travis-ci.org/goodcash-project/goodcash.svg?branch=master)](https://travis-ci.org/goodcash-project/goodcash)
 
-https://goodcash.org
+https://goodcash.network
 
 What is Goodcash?
 ----------------
@@ -15,7 +15,7 @@ out collectively by the network. Goodcash Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Goodcash Core software, see [https://goodcash.org](https://goodcash.org).
+the Goodcash Core software, see [https://goodcash.network](https://goodcash.network).
 
 License
 -------
